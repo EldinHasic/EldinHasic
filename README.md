@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>Hi, my name is Eldin👋</h1>
-<p>I am an aspiring Junior Developer from Austria, learning under *Developer Akademie*.</p>
+<p>I am an aspiring Junior Developer from Austria, learning under <p class="bold-text">Developer Akademie</p>.</p>
 
 <h2>I code with:</h2>
 <div align="left">
