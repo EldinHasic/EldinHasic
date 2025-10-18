@@ -1,3 +1,10 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README</title>
+</head>
+<body>
 <h1>Hi, my name is Eldin👋</h1>
 I am an aspiring Junior Developer from Austria.
 
@@ -35,3 +42,5 @@ I am an aspiring Junior Developer from Austria.
 </div>
 
 ###
+</body>
+</html>
