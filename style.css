@@ -2,16 +2,19 @@ h1 {
   font-weight: SemiBold;
   font-size: 64px;
   margin-bottom: 16px;
+  padding: 0;
 }
 
 p {
   font-size: 24px;
   margin-bottom: 24px;
+  padding: 0;
 }
 
 h2 {
   font-weight: SemiBold;
   font-size: 32px;
   margin-bottom: 16px;
+  padding: 0;
 }
 
