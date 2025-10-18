@@ -8,6 +8,7 @@
 <h1>Hi, my name is Eldin👋</h1>
 <p>I am an aspiring Junior Developer from Austria.</p>
 
+<h2>I code with:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" alt="html5 logo"  />
   <img width="12" />
